@@ -1,0 +1,6 @@
+module Components
+
+singleton Theme 1.0 Theme.qml
+ActionCard 1.0 ActionCard.qml
+SectionCard 1.0 SectionCard.qml
+StandardDialog 1.0 StandardDialog.qml
